@@ -1,8 +1,8 @@
-# Chrome Extension Template
+# Epub-Stat-Generator
+Read an epub, one word at a time, get stats of each word in return.
+
+## Stat Structure
+A cvs of [word, total duration, no of times read, start_time_1, start_time_2, ....]
 
 ## HOW-TO
-
-1. Download the repo `https://github.com/dhruv0000/epub-stats-generator` and unzip it.
-2. Go to `chrome://extensions/` and turn on Developer mode.
-3. `Load Unpacked` the unzipped file.
-4. 
+1. Open `https://dhruv0000.github.io/epub-stats-generator/`
